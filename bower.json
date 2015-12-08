@@ -1,0 +1,11 @@
+{
+  "name": "standard-layout-gulp",
+  "private": true,
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}
